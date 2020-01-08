@@ -7,6 +7,7 @@ Experiments on Causality &amp; Reinforcement Learning
 ### About causality
 - Of course the unbelievable Book of Why by Judea Pearl and his [recent Lex Friedman podcast](https://www.youtube.com/watch?v=pEBI0vF45ic)
 - [Want to make good business decisions? Learn causality](https://multithreaded.stitchfix.com/blog/2019/12/19/good-marketing-decisions/) by Stitchfix
+- [Causality in the Quantum World](https://physics.aps.org/articles/v10/86)
 
 ## Papers
 - [Learning Neural Causal Models from Unknown Interventions](https://arxiv.org/pdf/1910.01075.pdf) and [github](https://github.com/nke001/causal_learning_unknown_interventions)
